@@ -1,0 +1,7 @@
+{
+	"product": "string",
+	"set": "string",
+	"releasedate": "string",
+	"description": "string",
+	"quantity": "string"
+}
